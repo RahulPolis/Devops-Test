@@ -1,1 +1,1 @@
-Pull request om master
+push request  to pull request
